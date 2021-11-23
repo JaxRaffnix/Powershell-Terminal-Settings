@@ -12,11 +12,7 @@ The `settings.json` is stored here
 
 ## New Tab
 
-    ctrl + shift + 1/leftarrow/rightarrow/uparrow/downarrow.../3
-
-## New Tab 1-3
-
-    ctrl + shift + 
+    ctrl + shift + 1/.../3
 
 ## Close Tab
 
