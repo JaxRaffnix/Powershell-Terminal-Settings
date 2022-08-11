@@ -3,5 +3,3 @@
 $PSScriptRoot | Set-Location
 
 Copy-Item .\settings.json -Destination "$HOME\AppData\Local\Microsoft\Windows Terminal"
-
-# Test Words.
